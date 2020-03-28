@@ -1,0 +1,130 @@
+body{
+	background-color: #000;
+	color: #fff;
+}
+
+#showcase{
+	color: white;
+	padding:30px;
+	text-align:center;
+}
+
+
+#showcase p1{
+	font-style: italic;
+}
+
+
+#main-header{
+	text-decoration: underline;
+	text-align: center;
+	padding: 50px;
+}
+
+
+
+#main{
+	float: left;
+	width:70%;
+	padding:20px 30px;
+	box-sizing: border-box;
+	min-height:80px;
+	border: 5px, white, dotted;
+}
+
+
+.she-form{
+	padding: 20px;
+}
+
+.she-form .form-group{
+	padding-bottom: 15px;
+}
+
+.she-form label{
+	display:block;
+}
+
+.she-form input[type="text"], .she-form textarea{
+	padding: 8px;
+	width:100%;
+}
+
+
+
+.button{
+	background-color:white;
+	color: black;
+}
+
+.button:hover{
+	background: gray;
+	color: white;
+}
+
+#sidebar{
+	float: right;
+	width:30%;
+	padding:70px;
+	color: black;
+	box-sizing: border-box;
+	background-image: url('../images/16.jpg');
+	background-position: center right;
+	background-repeat: no-repeat, repeat;
+	min-height: 200px;
+	margin-bottom: 0;
+	text-transform: center; 
+	text-align: center;
+	margin-top: 200px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	text-transform: center; 
+	text-align: center;
+	padding-top: 50px;
+	min-height: 300px;
+}
+
+a:hover{
+    color:gray;
+}
+
+a:active{
+	color: blue;
+}
+
+/*.container{
+	position: relative;
+	width: 50%;
+}
+
+.image{
+	opacity: 1;
+	display: block;
+	width:100%;
+	transition: .5S ease;
+	backface-visibility: hidden;
+}
+
+.middlle{
+	transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.container:hover  .image{
+	opacity:1;
+}
+
+.text{
+	background-color: gray;
+	color: black;
+	font-size: 16px;
+	padding:16px 32px;
+}*/
